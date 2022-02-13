@@ -1,0 +1,32 @@
+PODS:
+  - CachyKit (1.0.14)
+  - EVReflection (5.10.1):
+    - EVReflection/Core (= 5.10.1)
+  - EVReflection/Core (5.10.1)
+  - SDWebImage (5.9.5):
+    - SDWebImage/Core (= 5.9.5)
+  - SDWebImage/Core (5.9.5)
+  - SkeletonView (1.29.2)
+
+DEPENDENCIES:
+  - CachyKit
+  - EVReflection
+  - SDWebImage
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - CachyKit
+    - EVReflection
+    - SDWebImage
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  CachyKit: faf004f56dc0435d7eadbe2569844a59fdc4f334
+  EVReflection: 8124de482178d34ccd56473e16cd95990f9a1113
+  SDWebImage: 0b2ba0d56479bf6a45ecddbfd5558bea93150d25
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+
+PODFILE CHECKSUM: 6cffcd4cd35b5f126fcafa98d6d10b0f108919dc
+
+COCOAPODS: 1.10.0
